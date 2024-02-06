@@ -1,4 +1,4 @@
-package ch7.weeklyQuiz;
+package ch7.deliveryCharge;
 
 class Beauty extends Product implements Promotion {
     public Beauty(String name, int price, int weight) {

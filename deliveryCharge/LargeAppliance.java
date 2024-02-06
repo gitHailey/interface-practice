@@ -1,4 +1,4 @@
-package ch7.weeklyQuiz;
+package ch7.deliveryCharge;
 
 class LargeAppliance extends Product implements Promotion {
     public LargeAppliance(String name, int price, int weight) {

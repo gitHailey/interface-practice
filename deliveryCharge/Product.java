@@ -1,4 +1,4 @@
-package ch7.weeklyQuiz;
+package ch7.deliveryCharge;
 
 class Product {
     protected String name;

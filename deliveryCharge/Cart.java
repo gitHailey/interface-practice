@@ -1,4 +1,4 @@
-package ch7.weeklyQuiz;
+package ch7.deliveryCharge;
 
 import java.util.ArrayList;
 import java.util.List;
